@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello
+**I'm craverave**
+Just a new shrimp, writing code...🦐
+- Python Level: Baby
+- Poor Posture: +100
 
 <!--
 **craverave/craverave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
